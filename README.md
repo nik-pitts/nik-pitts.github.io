@@ -1,1 +1,9 @@
-# nik-pitts.github.io
+# CV
+
+## Education
+
+## Research
+
+## Projects
+
+## Work Experience
