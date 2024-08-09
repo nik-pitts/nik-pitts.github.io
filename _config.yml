@@ -2,6 +2,6 @@ title: Nik Kim
 theme: jekyll-theme-minimal
 logo: /assets/img/headshot.png
 description: Playful Interactive Machine Learning
-skills: Python, Java, C#, Unity, Processing, LaTex, Node js, Javascript, HTML
+skills: true
 show_downloads: true
 google_analytics:
