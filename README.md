@@ -8,12 +8,7 @@
 
 ## Education
 - M.S., Computational Design | Carnegie Mellon University, Pittsburgh, PA, U.S.A., 2025.05
-
-* * *
-
 - B.S., Architecture | Dongguk University, Seoul, Korea, 2019.08
-
-* * *
 
 ## Research
 ### Human-Machine Guitar Hero
