@@ -23,11 +23,11 @@ It is this powerful connection between people and games that drives my passion f
 * A Walk with Shooting Star
 
 ### Game
-|:--------------------------|:-------------------|:------|
-| Mini Oldschool Maplestory | Platformer         | Python|
-| Smartass Piggy-Po         | Text Adventure     | Quest |
-| Micropolis Hack           | Top-down Strategic | Java  |
-| Char Invaders             | Top-down Arcade    | Unity |
+
+- Mini Oldschool Maplestory, Platformer, Python
+- Smartass Piggy-Po, Text Adventure, Quest
+- Micropolis Hack, Top-down Strategic, Java
+- Char Invaders, Top-down Arcade, Unity
 
 ## Coursework
 ### Game Design and Programming
