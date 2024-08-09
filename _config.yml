@@ -1,2 +1,6 @@
 title: Nik Kim
 theme: jekyll-theme-minimal
+logo: /assets/img/headshot.jpg
+description: Playful Interactive Machine Learning
+show_downloads: true
+google_analytics:
