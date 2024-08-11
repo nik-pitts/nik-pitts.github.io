@@ -19,7 +19,7 @@ I believe the true magic of gaming experiences lies in the shared moments of adv
 - [Human-Machine Guitar Hero](#human-machine-guitar-hero), Rythm Game, Processing
 - [Matterport 3D to Text Adventure](#matterport-3d-to-text-adventure), Web API, Node Js
 - **A Walk with Shooting Star, 3D Adventure, Unity** \\
-  <font color="#abd5bd">Developed a game agent with a *dog persona* using the ChatGPT API, which automatically generates a diary based on the natural conversation between the player and the dog agent.</font>
+  <font color="#868e96">Developed a game agent with a <i>dog persona</i> using the ChatGPT API, which automatically generates a diary based on the natural conversation between the player and the dog agent.</font>
 
 ### Game
 - Mini Oldschool Maplestory, Platformer Action, Python
@@ -30,7 +30,7 @@ I believe the true magic of gaming experiences lies in the shared moments of adv
 ## Coursework
 ### Game Design and Programming
 - **Game Programming for Designers** \\
-  <font color="#abd5bd">This course covered not only game programming but also practical aspects like developing collaboration tools and understanding workflows in game development.</font> 
+  <font color="#868e96">This course covered not only game programming but also practical aspects like developing collaboration tools and understanding workflows in game development.</font> 
 - Introduction to the Unity Game Engine
 - Research Issues in Game Development: Designing for XR
 
