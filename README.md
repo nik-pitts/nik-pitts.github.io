@@ -18,11 +18,11 @@ Humans and
 
 ## Projects
 ### Game x AI
-- Human-Machine Guitar Hero, Rythm Game, Processing
+- Human-Machine Guitar Hero, Rythm Game, Processing \
   Developed a collaborative machine agent using classic machine learning algorithms to play Guitar Hero alongside a human player.
-- Matterport 3D to Text Adventure, Web API, Node Js
+- Matterport 3D to Text Adventure, Web API, Node Js \
   Leveraged the ChatGPT API to create a web tool that converts Matterport 3D models into text adventure formats, enabling visually impaired individuals to explore 3D spaces with a gaming experience.
-- A Walk with Shooting Star, 3D Adventure, Unity
+- A Walk with Shooting Star, 3D Adventure, Unity \
   Developed a game agent with a dog persona using the ChatGPT API, which automatically generates a diary based on the natural conversation between the player and the dog agent.
 
 ### Game
@@ -33,7 +33,7 @@ Humans and
 
 ## Coursework
 ### Game Design and Programming
-- **Game Programming for Designers**
+- **Game Programming for Designers** \
   This course covered not only game programming but also practical aspects like developing collaboration tools and understanding workflows in game development. 
 - Introduction to the Unity Game Engine
 - Research Issues in Game Development: Designing for XR
@@ -44,7 +44,7 @@ Humans and
 - Data Structures for Application Programmers
 
 ## Work Experience
-- Studio Heech - **Architectural Designer**, 07 – 09 2022, Seoul, Korea
+- Studio Heech - **Architectural Designer**, 07 – 09 2022, Seoul, Korea \
   As a project manager, I led a spatial design project from the schematic design stage to actual construction.
-- VS-A Korea - **Façade Consultant**, 2019 – 2022, Seoul Korea
+- VS-A Korea - **Façade Consultant**, 2019 – 2022, Seoul Korea \
   I developed a problem-solving quality as an engineer while consulting on and proposing smarter solutions for building facades, the most complex and detail-oriented part of architecture.
