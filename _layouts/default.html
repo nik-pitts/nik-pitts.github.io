@@ -40,6 +40,22 @@
         {% endif %}
 
         {% if site.skills %}
+        <h2>Education</h2>
+        <ul>
+          <li>M.S. <strong>Computational Design</strong></li>
+            <ul>
+              <li>Carnegie Mellon University, Pittsburgh, PA, U.S.A., 2025.05</li>
+            </ul>
+          </li>
+          <li>B.S. <strong>Architecture</strong></li>
+            <ul>
+              <li>Dongguk University, Seoul, Korea, 2019.08</li>
+            </ul>
+          </li>
+        </ul>
+        {% endif %}
+        
+        {% if site.skills %}
           <h2>Skills</h2>
           <h3>Programming</h3>
             <p>
@@ -57,7 +73,6 @@
               <strong>Grasshopper:</strong> *****
             </p>
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </header>
       <section>
 
@@ -68,6 +83,7 @@
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
