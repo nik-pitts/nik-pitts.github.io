@@ -6,13 +6,11 @@ Video games have always been an integral part of my life. The true magic of thes
 ## Research Experience
 ### Human-Machine Guitar Hero
 *Independent Study, Advisor Prof. Paul Pangaro, School of Design – CMU, Pittsburgh, USA* \
-
 Developed a collaborative machine agent using classic machine learning algorithms to play Guitar Hero alongside a human player.
 - Paper selected and presented at the **2024 Meaningful Play** conference.
 
 ### Matterport 3D Text Adventure
 *Research Assistant, Prof. Daragh Bryne, School of Architecture – CMU, Pittsburgh, USA* \
-
 Leveraged the ChatGPT API to create a web tool that converts Matterport 3D models into text adventure formats, enabling visually impaired individuals to explore 3D spaces with a gaming experience.
 - Web API made **publicly available** on GitHub.
 
