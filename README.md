@@ -39,6 +39,10 @@ I believe the true magic of gaming experiences lies in the shared moments of adv
 - Java for Application Programmers
 - Data Structures for Application Programmers
 
+### Machine Learning
+- Introduction to Deep Learning
+- Mathematical Foundations for Machine Learning
+
 ## Work Experience
 - Studio Heech - **Architectural Designer**, 07 – 09, 2022, Seoul, Korea \
   As a project manager, I led a spatial design project from the schematic design stage to actual construction.
