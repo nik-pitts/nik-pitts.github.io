@@ -11,7 +11,6 @@
             height: 100%;
             display: flex;
             flex-direction: column;
-            background-color: white;
         }
         p {
             margin: 10px;
@@ -24,17 +23,16 @@
             align-items: center;
             overflow: hidden;
         }
-        iframe {
-            height: 100%;
-            width: 100%;
-            border: none;
+        embed {
+            max-width: 100%;
+            object-fit: contain;
         }
     </style>
 </head>
 <body>
     <p>Hi there.</p>
     <div class="pdf-container">
-        <iframe src="https://nik-pitts.github.io/academic/data/resume_march_25.pdf#toolbar=0&navpanes=0&scrollbar=0&view=Fit" style="background: #FFFFFF" type="application/pdf"></iframe>
+        <embed src="https://nik-pitts.github.io/academic/data/resume_march_25.pdf" type="application/pdf" />
     </div>
 </body>
 </html>
