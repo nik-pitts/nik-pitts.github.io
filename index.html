@@ -3,23 +3,36 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Embed PDF</title>
+    <title>Nik Kim Resume</title>
     <style>
         body, html {
             margin: 0;
             padding: 0;
             height: 100%;
+            display: flex;
+            flex-direction: column;
+        }
+        p {
+            margin: 10px;
+        }
+        .pdf-container {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            overflow: hidden;
         }
         embed {
-            display: block;
-            margin: auto;
             height: 100%;
-            width: auto;
+            max-width: 100%;
+            object-fit: contain;
         }
     </style>
 </head>
 <body>
     <p>Hi.</p>
-    <embed src="https://nik-pitts.github.io/academic/data/resume_march_25.pdf" type="application/pdf" />
+    <div class="pdf-container">
+        <embed src="https://nik-pitts.github.io/academic/data/resume_march_25.pdf" type="application/pdf" />
+    </div>
 </body>
 </html>
