@@ -15,25 +15,33 @@
         }
         p {
             margin: 10px;
+            text-align: center;
         }
         .pdf-container {
             flex: 1;
             display: flex;
             justify-content: center;
             align-items: center;
+            width: 100%;
             overflow: hidden;
         }
         iframe {
             height: calc(100% - 20px);
-            width: 80%;
+            width: 100%;
+            max-width: 1000px; /* Adjust based on your PDF's optimal width */
             border: none;
+        }
+        @media (max-width: 768px) {
+            iframe {
+                width: 100%;
+            }
         }
     </style>
 </head>
 <body>
-    <p>Hi.</p>
+    <p>Hi There.</p>
     <div class="pdf-container">
-        <iframe src="https://nik-pitts.github.io/academic/data/resume_march_25.pdf#toolbar=0&navpanes=0&scrollbar=0&view=FitH" type="application/pdf"></iframe>
+        <iframe src="https://nik-pitts.github.io/academic/data/resume_march_25.pdf#view=FitH" type="application/pdf"></iframe>
     </div>
 </body>
 </html>
